@@ -1,0 +1,32 @@
+jstarCallback([
+    {
+        "submitDate": "5 Jan 2013",
+        "submitTime": "11:42pm",
+        "photo": "img/funny-cat-1.jpg",
+        "caption": "this is cat #1 doing a funny thing"
+    },
+    {
+        "submitDate": "5 Jan 2013",
+        "submitTime": "11:42pm",
+        "photo": "img/funny-cat-2.jpg",
+        "caption": "this is cat #2 doing a funny thing"
+    },
+    {
+        "submitDate": "5 Jan 2013",
+        "submitTime": "11:42pm",
+        "photo": "img/funny-cat-3.jpg",
+        "caption": "this is cat #3 doing a funny thing"
+    },
+    {
+        "submitDate": "5 Jan 2013",
+        "submitTime": "11:42pm",
+        "photo": "img/funny-cat-4.jpg",
+        "caption": "this is cat #4 doing a funny thing"
+    },
+    {
+        "submitDate": "5 Jan 2013",
+        "submitTime": "11:42pm",
+        "photo": "img/funny-cat-5.jpg",
+        "caption": "this is cat #5 doing a funny thing"
+    }
+]);
