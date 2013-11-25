@@ -12,3 +12,4 @@ how it works
 1. jstar will automatically convert static site to the template language of your choice.
    - it modifies static file paths to be consumed by your backend of choice
    - it replaces your generic content with real content generated from the backend
+=======
